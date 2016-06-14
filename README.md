@@ -27,5 +27,4 @@ echo Website has been up to date.
 2. Copy the above script to the new file.  
 3. Modify your repo path and website path in the script.  
 4. Give this script executable permission.
-
-##
+5. Using ```visudo``` allow user git use ```rm``` and ```cp``` command by user www-data
